@@ -34,7 +34,7 @@
 
 
 # RAPORT KOŃCOWY 
-
+* Uwaga dodałem poprawę wyświetlania błędów i uruchomiłem skrypt jeszcze raz. Wyniki mogą się lekko różnić
  * Skuteczność Diagnostyczna (Performance Summary)
  - Zbudowany model XGBoost osiągnął ROC AUC na poziomie 0.84
  - Wysoki Priorytet Czułości (Recall = 80%): Dzięki zastosowaniu techniki ważenia klas (scale_pos_weight), optymalizacji za pomocą Optuna oraz dzięki inżynierii cech model skutecznie identyfikuje 4 na 5 pacjentów zagrożonych udarem
